@@ -3,6 +3,7 @@
 *.png
 *.html
 x64/
+Debug
 Setting Up vulkan using Info/Debug
 Setting Up vulkan using Info/x64
 .vs/Setting Up vulkan using Info
