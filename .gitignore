@@ -6,3 +6,6 @@ x64/
 Setting Up vulkan using Info/Debug
 Setting Up vulkan using Info/x64
 .vs/Setting Up vulkan using Info
+Dependancies/GlM
+Dependancies/Vulkan/Include
+Dependancies/Vulkan/lib
